@@ -1,0 +1,136 @@
+@media (min-width:320px) and (max-width:575px){
+
+ /* ================ navbar part start================== */
+
+ header nav{
+  padding: 30px 15px !important;
+ }
+ header .fixed{
+  padding: 10px 15px !important;
+ }
+
+ nav .navbar-toggler{
+  border: 1px solid #fff;
+ }
+
+nav button i{
+ color: #ffff;
+}
+
+header .navbar .nav-item{
+ margin-left: 0;
+}
+header .navbar ul{
+ background: rgba(53, 53, 53);
+ text-align: center;
+}
+header .fixed ul{
+ background: rgba(53, 53, 53,.0);
+}
+/* ================ banner part start================== */
+
+#menu-part .banner .left h6{
+  font-size: 80px;
+  margin-top: -48px;
+}
+#menu-part .banner .left h3{
+  font-size: 55px;
+}
+
+#menu-part .banner .right{
+ display: none;
+}
+
+
+/* ================ about part start================== */
+
+#menu-part-extra {
+ padding-top: 50px;
+}
+
+#menu-part-extra .m{
+ display: none;
+}
+
+#menu-part-extra .n h2{
+ font-size: 40px;
+}
+
+#menu-part-extra .n h2::after {
+ width: 80px;
+ left: 156px;
+}
+
+
+/* ================ product part start================== */
+
+
+
+#proudct-part .title img{
+ display: none;
+}
+
+
+/* ================ upcoming part start================== */
+
+#upcoming .title2 img{
+ display: none;
+}
+
+
+
+/* ================ deal part start================== */
+
+#deal .jj{
+ margin: 0 auto;
+}
+
+#deal .kk{
+ padding-top: 0;
+}
+
+#deal .jj .rrrr{
+ transform: scale(.7);
+}
+
+#deal .kk h3{
+ font-size: 39px;
+}
+
+
+#deal .kk h3::after{
+ 
+ left: 241px;
+ width: 47px;
+}
+
+/* ================ latest updates part start================== */
+
+.deal-extra{
+ padding-top: 0;
+}
+
+.deal-extra .ld h1{
+ font-size: 40px;
+}
+
+.deal-extra .ld h1::after{
+ left: 200px;
+ width: 80px;
+}
+
+.deal-extra .ld1 .ld2 .ld5 p{
+ width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
